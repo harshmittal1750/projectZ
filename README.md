@@ -1,9 +1,3 @@
-# projectz
-
-## Quality Contribute to get your perks of projectz 2022
-
-<h1 align="center"> <img src= "https://octodex.github.com/images/original.png" width= "40" /> projectz 2022 <img src= "https://octodex.github.com/images/original.png" width= "40" /> </h1>
-
 <div align="center">
 
 <img src= "https://github.com/harshmittal1750/projectz/blob/main/EmailBanners-Dark.png" width= "1200"/>
