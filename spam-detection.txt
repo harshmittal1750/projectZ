@@ -1,0 +1,9 @@
+n 2020, we discovered that the popularity of Hacktoberfest over the years and the excitement of earning a limited-edition Hacktoberfest t-shirt resulted in low-quality pull/merge requests (PR/MRs) as participants chased the t-shirt without thinking about their actions. These actions resulted in more work for maintainers and a poorer experience for the open source community. In response, we immediately tightened our rules for submissions during the 2020 event and were more consistent with enforcement, successfully ensuring higher-quality PR/MRs and reducing the number of spam complaints. We kept those same rules in 2021 and will be doing the same this year, continually refining them based on feedback from the community to ensure Hacktoberfest is a positive experience.
+
+As part of our continued dedication to providing a high-quality, helpful experience that brings the open source community together, we have the following rules for this year:
+
+Maintainers must opt-in to Hacktoberfest by adding the 'hacktoberfest' topic to their participating repository/project in GitHub or GitLab or by applying the 'hacktoberfest-accepted' label to individual PR/MRs.
+Spammy PR/MRs will be labeled. If the PR/MR has any label that contains the word 'spam', then it will be treated as spam and will not be counted for Hacktoberfest. Users that have two or more spam PR/MRs will be permanently disqualified.
+PR/MRs only count once accepted by a maintainer. Maintainers of opted-in projects can accept PR/MRs from contributors by merging them, giving them an overall approving review, or labeling them as ‘hacktoberfest-accepted’.
+We’ve instituted a reporting system for bad repositories. The Hacktoberfest community can let us know about repositories designed to cheat Hacktoberfest. 
+We’ve reduced the emphasis on the t-shirt and winning a prize. Instead, we’re focused on how to bring communities together to improve open source for all in a positive way.
